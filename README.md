@@ -1,4 +1,4 @@
-# vector-cloud-closure-model
+# Vector-cloud Closure Model
 
 Code and data for article: 
 
